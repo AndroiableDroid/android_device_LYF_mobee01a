@@ -1,3 +1,3 @@
-s# SELinux
+# SELinux
 BOARD_SEPOLICY_DIRS += \
-    device/LYF/mobee01a/sepolicy
+  device/LYF/mobee01a/sepolicy
