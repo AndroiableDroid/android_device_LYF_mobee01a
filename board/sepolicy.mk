@@ -1,3 +1,3 @@
-# SELinux
+s# SELinux
 BOARD_SEPOLICY_DIRS += \
-    device/yu/tomato/sepolicy
+    device/LYF/mobee01a/sepolicy

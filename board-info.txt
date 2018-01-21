@@ -1,1 +1,1 @@
-require version-trustzone=TZ.BF.3.0.R2-00034
+require board=msm8939
