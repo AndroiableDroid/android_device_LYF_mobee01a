@@ -67,7 +67,7 @@ void init_target_properties()
         property_set("dalvik.vm.heapminfree", "2m");
         property_set("dalvik.vm.heapmaxfree", "8m");
     } else {
-        property_set("ro.product.model", "AO5510");
+        property_set("ro.product.model", "LYF Water 8");
         property_set("dalvik.vm.heapstartsize", "8m");
         property_set("dalvik.vm.heapgrowthlimit", "192m");
         property_set("dalvik.vm.heapsize", "512m");
