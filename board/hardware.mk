@@ -1,2 +1,2 @@
-# CMHW
-BOARD_HARDWARE_CLASS += device/LYF/mobee01a/cmhw
+# LINEAGEHW
+BOARD_HARDWARE_CLASS += device/LYF/mobee01a/lineagehw
